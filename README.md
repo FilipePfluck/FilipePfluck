@@ -1,8 +1,8 @@
 # Filipe Pfluck
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas através da lógica
-Sou um dev fullstack que usa Typescript, Node, React e React Native :computer:
+Sou apaixonado por resolver problemas através da lógica.
+<br/>Sou um dev fullstack que usa Typescript, Node, React e React Native :computer:
 
  &nbsp; Estou fazendo o curso técnico de informática no Instituto Ivoti e fazendo o bootcamp Gostack na **Rocketseat** :rocket:  
  <br/> &nbsp; Posso te ajudar com Node e React
