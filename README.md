@@ -1,16 +1,15 @@
-### Hi there 👋
+```markdown
+# Filipe Pfluck
 
-<!--
-**FilipePfluck/FilipePfluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas através da lógica
+Sou um dev fullstack que usa Typescript, Node, React e React Native :computer:
 
-Here are some ideas to get you started:
+ &nbsp; Estou fazendo o curso técnico de informática no Instituto Ivoti e fazendo o bootcamp Gostack na **Rocketseat** :rocket:  
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos, mangás e animes.
+ <br/> :email: &nbsp; Entre em contato comigo: 
+ <br/>[![Linkedin Badge](https://www.linkedin.com/in/filipe-hebestreit-pfluck-9389a31a6/)
+ <br/>[![Gmail Badge] filipepfluck@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
