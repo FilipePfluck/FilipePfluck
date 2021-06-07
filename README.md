@@ -4,7 +4,8 @@
 Sou um dev fullstack focado em typescript. Trabalho com React, Next e React Native. Também sei criar APIs em Node :computer:
 
 Desde pequeno sempre gostei muito de lógica. Acabei me interessando por jogos, e sempre mexi no computador. 
-Estou terminando o curso técnico de informática no Instituto Ivoti e terminei o bootcamp Gostack na **Rocketseat** :rocket:  
+Estou terminando o curso técnico de informática no Instituto Ivoti.
+Terminei o bootcamp Gostack na **Rocketseat** :rocket:  
 Terminei o bootcamp Ignite na trilha de React, ainda faltam a de Node e a de React Native. 
 Tenho interesse em aprender no futuro sobre segurança da informação e AI.
 
