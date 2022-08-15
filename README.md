@@ -17,4 +17,4 @@ De vez em quando eu desenvolvo os meus projetos em live na roxinha. Me segue lá
 <br/>https://www.linkedin.com/in/filipe-hebestreit-pfluck-9389a31a6/
 <br/>filipepfluck@gmail.com
 <br/>filipepfluckdev@gmail.com
-<br/>Pfluck#3427
+<br/>Discord: Pfluck#3427
