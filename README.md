@@ -8,6 +8,6 @@ I am skilled in:
 * Next
 * Node
 
-Get in touch with me: 
-[linkedin](https://www.linkedin.com/in/filipe-hebestreit-pfluck-9389a31a6/)
+Get in touch with me: <br>
+[linkedin](https://www.linkedin.com/in/filipe-hebestreit-pfluck-9389a31a6/) <br>
 my discord: pfluck
