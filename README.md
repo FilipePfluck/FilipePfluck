@@ -1,20 +1,13 @@
 # Filipe Pfluck
+## Frontend software engineer
 
-## Olá pessoal 👋
-Sou um dev fullstack focado em typescript. Sei Node, React, Next e React Native :computer:
+I am a young and talented software developer living in Brazil. I'm passionate about using my coding skills to craft amazing experiences. Currently I work mostly with Typescript and React, but I'm very curious and always eager to learn new things. I consider myself a very logical and fast learning person.
 
-<br/>Formado como técnico em informática no Instituto Ivoti.
-<br/>Terminei o bootcamp Gostack na **Rocketseat** :rocket:  
-<br/>Terminei o bootcamp Ignite na trilha de React, ainda faltam a de Node e a de React Native. 
-<br/>Tenho interesse em aprender no futuro sobre segurança da informação e AI.
+I am skilled in: 
+* React
+* Next
+* Node
 
-De vez em quando eu desenvolvo os meus projetos em live na roxinha. Me segue lá: 
-<br/> https://www.twitch.tv/filipepfluck
-
-[![Filipe Pfluck's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipePfluck)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/> Entre em contato comigo: 
-<br/>https://www.linkedin.com/in/filipe-hebestreit-pfluck-9389a31a6/
-<br/>filipepfluck@gmail.com
-<br/>filipepfluckdev@gmail.com
-<br/>Discord: Pfluck#3427
+Get in touch with me: 
+[linkedin](https://www.linkedin.com/in/filipe-hebestreit-pfluck-9389a31a6/)
+my discord: pfluck
